@@ -1,8 +1,13 @@
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTl5aDN1YjY4c2NzMTR5MzBzc2YxbHY0OHNoeGgzNDAya2dsZHlkNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTl5aDN1YjY4c2NzMTR5MzBzc2YxbHY0OHNoeGgzNDAya2dsZHlkNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width=240>
   <h1>Paulo Mantilla</h1>
   <p>Make it work, make it right, make it fast.</p>
+
+  <h3>Tools</h3>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width=40 height=40>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width=40 height=40>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width=40 height=40>
 </div>
 
 <!--
