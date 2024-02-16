@@ -11,6 +11,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width=40 height=40>
 </div>
 
+---
+
+<div align="center">
+  <h2>About me</h2>
+  <p>Hey there! My name is Paulo Mantilla and i'm 20 years old</p>
+</div>
+
 <!--
 **paulomantilla04/paulomantilla04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
