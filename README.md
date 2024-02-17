@@ -1,21 +1,29 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTl5aDN1YjY4c2NzMTR5MzBzc2YxbHY0OHNoeGgzNDAya2dsZHlkNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width=240>
-  <h1>Paulo Mantilla</h1>
+  <h1>Paulo Mantilla 👻</h1>
   <p>Make it work, make it right, make it fast.</p>
+  
+  <div>
+    <h3>Tools</h3>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width=40 height=40>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width=40 height=40>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width=40 height=40>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width=40 height=40>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width=40 height=40>
+  </div>
 
-  <h3>Tools</h3>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width=40 height=40>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width=40 height=40>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width=40 height=40>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width=40 height=40>
+  
+
+  
+  
 </div>
 
 ---
 
 <div align="center">
   <h2>About me</h2>
-  <p>Hey there! My name is Paulo Mantilla and i'm 20 years old</p>
+  <p>Hey there! I'm Paulo, a Web Developer 💻 in the making and a Software Engineering student. I'm on a journey to discover my niche, exploring new technologies along the way.</p>
 </div>
 
 <!--
