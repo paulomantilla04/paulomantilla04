@@ -23,29 +23,12 @@
   </div>
 
   
-
-  
-  
 </div>
 
 ---
 
 <div align="center">
-  <h2>About me</h2>
+  <h3>About me</h2>
   <p>Hey there! I'm Paulo, a Web Developer 💻 in the making and a Software Engineering student. I'm on a journey to discover my niche, exploring new technologies along the way.</p>
 </div>
 
-<!--
-**paulomantilla04/paulomantilla04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
