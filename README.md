@@ -5,12 +5,21 @@
   <p>Make it work, make it right, make it fast.</p>
   
   <div>
-    <h3>Tools</h3>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width=40 height=40>
+    <h3>Tech Stack</h3>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width=40 height=40>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width=40 height=40>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width=40 height=40>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width=40 height=40>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width=40 height=40>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width=40 height=40>
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width=40 height=40>
+  </div>
+
+  <div>
+    <h3>Technologies I'm Just Getting Into</h3>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width=40 height=40>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width=40 height=40>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width=40 height=40>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width=40 height=40>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width=40 height=40>
   </div>
 
   
