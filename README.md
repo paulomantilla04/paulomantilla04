@@ -19,7 +19,7 @@
 
   <div>
     <h3>Technologies I'm Just Getting Into</h3>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width=40 height=40>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width=40 height=40>
     <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width=40 height=40>
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width=40 height=40>
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width=40 height=40>
