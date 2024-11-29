@@ -13,6 +13,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width=40 height=40>
     <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width=40 height=40>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width=40 height=40>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" width=40 height=40>
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width=40 height=40>
   </div>
 
