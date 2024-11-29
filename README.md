@@ -1,7 +1,7 @@
 <div align="center" style="max-width: 800px; margin: 0 auto; padding: 20px;">
   <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTl5aDN1YjY4c2NzMTR5MzBzc2YxbHY0OHNoeGgzNDAya2dsZHlkNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" style="max-width: 200px; width: 100%; height: auto; margin: 10px;">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnNubTlraHNhaTVyZnNiaTJ0a2h2Z2EwYzhuNGhoeDZmODV0aXZjaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cFdHXXm5GhJsc/giphy.gif" style="max-width: 200px; width: 100%; height: auto; margin: 10px;">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTl5aDN1YjY4c2NzMTR5MzBzc2YxbHY0OHNoeGgzNDAya2dsZHlkNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" style="max-width: 100px; width: 100%; height: auto; margin: 10px;">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnNubTlraHNhaTVyZnNiaTJ0a2h2Z2EwYzhuNGhoeDZmODV0aXZjaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cFdHXXm5GhJsc/giphy.gif" style="max-width: 100px; width: 100%; height: auto; margin: 10px;">
   </div>
   
   <h1>Paulo Mantilla 👻</h1>
