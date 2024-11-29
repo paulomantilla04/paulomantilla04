@@ -8,8 +8,9 @@
   <h1>Paulo Mantilla 👻</h1>
   <p>Make it work, make it right, make it fast.</p>
   
-  <div>
-    <h3>Tech Stack</h3>
+<div>
+  <h3>Tech Stack</h3>
+  <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; justify-items: center; align-items: center;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width=40 height=40>
     <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width=40 height=40>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width=40 height=40>
@@ -19,15 +20,17 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width=40 height=40>
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width=40 height=40>
   </div>
+</div>
 
-  <div>
-    <h3>Technologies I'm Just Getting Into</h3>
+<div>
+  <h3>Technologies I'm Just Getting Into</h3>
+  <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; justify-items: center; align-items: center;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width=40 height=40>
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width=40 height=40>
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width=40 height=40>
     <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width=40 height=40>
-    
   </div>
+</div>
 
   
 </div>
