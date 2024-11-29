@@ -13,7 +13,6 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" style="width: 40px; height: 40px;">
       <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" style="width: 40px; height: 40px;">
       <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" style="width: 40px; height: 40px;">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" style="width: 40px; height: 40px;">
       <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" style="width: 40px; height: 40px;">
       <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" style="width: 40px; height: 40px;">
       <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" style="width: 40px; height: 40px;">
