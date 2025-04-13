@@ -1,37 +1,71 @@
-<div align="center" style="max-width: 600px; margin: 0 auto; padding: 20px;">
-  <div style="display: flex; flex-direction: row; align-items: center; gap: 10px">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTl5aDN1YjY4c2NzMTR5MzBzc2YxbHY0OHNoeGgzNDAya2dsZHlkNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" style="max-width: 100px; width: 100%; height: auto; margin: 10px;">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnNubTlraHNhaTVyZnNiaTJ0a2h2Z2EwYzhuNGhoeDZmODV0aXZjaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cFdHXXm5GhJsc/giphy.gif" style="max-width: 100px; width: 100%; height: auto; margin: 10px;">
-  </div>
-  
-  <h1>Paulo Mantilla 👻</h1>
-  <p style="max-width: 600px; margin: 0 auto;">Make it work, make it right, make it fast.</p>
-  
-  <div style="margin-top: 20px;">
-    <h3>Tech Stack</h3>
-    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(60px, 1fr)); gap: 15px; justify-items: center; align-items: center; max-width: 600px; margin: 0 auto;">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" style="width: 40px; height: 40px;">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" style="width: 40px; height: 40px;">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" style="width: 40px; height: 40px;">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" style="width: 40px; height: 40px;">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" style="width: 40px; height: 40px;">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" style="width: 40px; height: 40px;">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" style="width: 40px; height: 40px;">
-    </div>
-  </div>
+<h1 align="left">Hi 👋! My name is Paulo</h1>
 
-  <div style="margin-top: 20px;">
-    <h3>Technologies I'm Just Getting Into</h3>
-    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(60px, 1fr)); gap: 15px; justify-items: center; align-items: center; max-width: 600px; margin: 0 auto;">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" style="width: 40px; height: 40px;">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" style="width: 40px; height: 40px;">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" style="width: 40px; height: 40px;">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" style="width: 40px; height: 40px;">
-    </div>
-  </div>
-  
-  <div style="margin-top: 20px;">
-    <h3>About me</h3>
-    <p style="max-width: 600px; margin: 0 auto;">Hey there! I'm Paulo, a Web Developer 💻 in the making and a Software Engineering student. I'm on a journey to discover my niche, exploring new technologies along the way.</p>
-  </div>
+###
+
+<h5 align="left">I'm a Web Developer 💻 in the making and a Software Engineering student. I'm on a journey to discover my niche, exploring new technologies along the way.</h5>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=paulomantilla04&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=paulomantilla04&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<br clear="both">
+
+<h2 align="left">My Tech Stack 💻</h2>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<h2 align="left">Social Media</h2>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <a href="https://www.instagram.com/paulomanher/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/paulomantilla04/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGx4cG01OXNpOTQ3eG54MHdpemZjZTlvMGw5MWdybHRsdmViNGthbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif"  />
+
+###
+
+<img src="https://raw.githubusercontent.com/paulomantilla04/paulomantilla04/output/snake.svg" alt="Snake animation" />
+
+###
